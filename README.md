@@ -15,3 +15,5 @@ Result：包含了十个数据集在ResNet18和50的训练结果
                         valid集的acc和auc文本记录
                         
                         test集的acc和auc的文本记录
+
+Retina新策略结果：包含了我们对Retina有序回归任务实施了新的训练策略后得到的模型结果
