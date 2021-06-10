@@ -1,6 +1,7 @@
 # MedMNIST
 SJTU AI2612 Final HomeWork
-Author 王宇昊 陈星元
+
+Author：王宇昊 陈星元
 
 Med_main.py：导入数据、数据预处理、训练模型、预测结果
              使用时将filepath改为MedMNIST数据集所在位置
