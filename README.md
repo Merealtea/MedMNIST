@@ -10,7 +10,7 @@ ResNet.py：ResNet模型，包含了ResNet18和50两种模型
 
 Result：包含了十个数据集在ResNet18和50的训练结果
 
-        结果里面包含了：train集的acc和auc文本记录和可视化
+        结果里面包含了：train集的acc、auc和loss的文本记录和可视化
         
                         valid集的acc和auc文本记录
                         
